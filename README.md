@@ -36,7 +36,7 @@ After installing the dependencies, start the development server:
 npm run dev
 ```
 
-You can now view the app at *http://localhost:5173*.
+You can now view the app at http://localhost:5500.
 
 How it works
 
