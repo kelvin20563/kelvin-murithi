@@ -16,7 +16,7 @@ To get started, follow these steps to set up the project on your local machine.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/dynamic-list-manager.git
+git clone https://github.com/your-kelvin-murithi/dynamic-list-manager.git
 ```
 
 2. Install dependencies
